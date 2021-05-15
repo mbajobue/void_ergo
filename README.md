@@ -3,7 +3,7 @@
 
 ![VOID Ergo M](https://manuelbajo.com/files/images/void_ergo_m/DSC_0718.JPG)
 
-| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0703.JPG) 	| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0709.JPG) 	| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0725.JPG) 	|
+| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0705.JPG) 	| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0709.JPG) 	| ![](https://manuelbajo.com/files/images/void_ergo_m/DSC_0725.JPG) 	|
 |---------------------------------------	|---------------------------------------	|---------------------------------------	|
 
 The VOID Ergo M is a fork of the [VOID Ergo S](https://github.com/victorlucachi/void_ergo) by [victorlucachi](https://github.com/victorlucachi/void_ergo). Changes from the original project:
